@@ -24,7 +24,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: L’s Space
+title: L-space
 email: lifengrui9@gmail.com
 author: Frui L
 

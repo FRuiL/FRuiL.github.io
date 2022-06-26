@@ -157,9 +157,7 @@ header_pages:
 # defaults:
 #   home:
 heading: "FREE L."
-subheading: >
-   only pray to myself
-   只向我自己祷告
+subheading:"only pray to myself"
   
 #     banner: "Your image url"
 
